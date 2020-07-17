@@ -1,2 +1,2 @@
 # tc-pipeline
-Teamcity pipeline based on Springboot
+Teamcity pipeline based on Springboot and maven
