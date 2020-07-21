@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.altimetrik</groupId>
 	<artifactId>tc-pipeline</artifactId>
-	<version>1.0.0</version>
+	<proj.version>1.0.0</proj.version>
 	<name>tc-pipeline</name>
 	<description>Demo project for Spring Boot</description>
 
