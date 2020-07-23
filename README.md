@@ -5,3 +5,4 @@ Teamcity pipeline based on Springboot and maven
 mvnw clean install
 Update 1
 Update 2
+Update 3
